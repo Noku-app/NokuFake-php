@@ -1,0 +1,8 @@
+### Sensitives ###
+api/config.php
+
+### Testing ###
+api/test.php
+
+### IDEA Files ###
+.idea
